@@ -12,7 +12,7 @@ slicing analysis indicate that model quality is slightly better for boys, users 
 users with less than ten books, and users with a migrant background. Furthermore, our analysis of the temporal
 prediction shows that with increasing accuracy of the model, the fairness decreases. In conclusion, we see that
 the fairness of a model depends on 1) the fairness measure, 2) the evaluated demographic group and 3) the
-data with which the model is trained. 
+data with which the model is trained. A random state is not set, thus, results might differ marginally.
 
 Further details described in:
 N. Rzepka, K. Simbeck, H.-G. Müller, and N. Pinkwart
