@@ -27,23 +27,7 @@ Proceedings of the 14th International Conference on Computer Supported Education
 SciTePress, 2022, ISBN 978-989-758-562-3 
 
 The repository of the prediction model can be found at:
-tba
+10.5281/zenodo.7744533
 
 How to use:
-The data files to use this project can be assessed via Zenodo.
-tba
-
-Data to run these files:
-- preprocessed_fairness_data.pkl
-- /matrices_forte_abi
-- /matrices_forte_keinAbi
-- /matrices_forte_boys
-- /matrices_forte_girls
-- /matrices_forte_deutsch
-- /matrices_forte_migration
-- /matrices_forte_buecher_0
-- /matrices_forte_buecher_1
-- /matrices_allsessions
-- all_metrics.pkl
-- all_metrics.xlsx
-- fairness.xlsx
+The data files can not be made publicly available due to GDPR contraints. However, a metadata schema and data dictionary can be found in the folder 00_metadata

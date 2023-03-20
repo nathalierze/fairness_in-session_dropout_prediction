@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+  <dcterms:title>Data Dictionary for fairness evaluation of an in-session dropout prediction model</dcterms:title>
+  <dcterms:description>The data set and metadata information is provided to be able to understand the code of the fairness evaluation.</dcterms:description>
+  <dcterms:creator>Nathalie Rzepka</dcterms:creator>
+  <dcterms:date>2023-03-20</dcterms:date>
+  <dcterms:format>XML</dcterms:format>
+  <dcterms:language>English</dcterms:language>
+  <dcterms:type>Text</dcterms:type>
+  <dcterms:subject>Algorithmic Bias</dcterms:subject>
+  <dcterms:relation>10.5281/zenodo.7744533</dcterms:relation>
+  <dcterms:relation>N. Rzepka, K. Simbeck, H.-G. Müller, and N. Pinkwart Keep It Up: In-session Dropout Prediction to Support Blended Classroom Scenarios Proceedings of the 14th International Conference on Computer Supported Education - Volume 2: CSEDU, SciTePress, 2022, ISBN 978-989-758-562-3 </dcterms:relation>
+  <dcterms:relation>Nathalie Rzepka, Katharina Simbeck, Hans G. Müller, and Niels Pinkwart. 2022. Fairness of In-session Dropout Prediction. In Proceedings of the 14th International Conference on Computer Supported Education. SCITEPRESS, 316–326. DOI: https://doi.org/10.5220/0010962100003182.</dcterms:relation>
+  <dcterms:contributor>Hans-Georg Müller</dcterms:contributor>
+</metadata>
